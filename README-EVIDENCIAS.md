@@ -9,8 +9,3 @@ Capturas selecionadas do laboratório AWS IAM + S3, organizadas por categoria.
 - `04-policy-simulator`: simulações de permissões.
 - `05-access-analyzer`: analisador e descobertas de acesso externo.
 - `06-cost-management`: orçamento mensal e e-mail verificado.
-
-**Antes de publicar:** faça uma revisão visual final das imagens, especialmente
-IDs de conta, ARNs, nomes e outros identificadores que você prefira não expor.
-O cabeçalho do console foi coberto e o e-mail do orçamento foi ocultado.
-As capturas originais não foram modificadas.
